@@ -1,0 +1,196 @@
+{
+    "Header" :{
+        "alexi" : "alexi",
+        "vakhtang" : "vakhtang",
+        "foundation" : "foundation",
+        "projects" : "projects",
+        "contact" : "contact"
+    },
+
+    "HeaderList" : {
+        "biography" : "biography",
+        "photos" : "photos",
+        "manuscripts" : "manuscripts",
+        "presse" : "presse",
+        "Audio" : "Audio & video samples",
+        "about" : "about us",
+        "team" : "team"
+    },
+
+    "title" : "Alexi And Vakhtang Matchavariani \n  Charity Foundation",
+    
+    "Missions" : {
+        "Mission" : "Our Mission",
+    
+        "Support" : "Support of young  Composers and performers of exceptional talent. Establishment of the International Composers Competition of Alexi Matchavariani. ",
+
+       "Popularisation" : "Popularisation of Georgian Music in Georgia and Abroad. Organisation of professional musical events and their support. Establishment of the International Youth Symphony Orchestra." ,
+    
+       "Establishment" : "Establishment of the musical Festival. Restoration of damaged  musical Scores of Georgian Composers. Restoration of Audio & Video samples of old Georgian musical  masterpieces. Revival of forgotten Georgian musical masterpieces. Presentation of unknown musical masterpieces in Georgia. Connection of Georgian and foreign young musicians via Music. ", 
+
+       "LearnMore" : "Learn More"
+    },
+
+    "AlexiPhotosText" : "Photos By Stephane De Bourgies  ",
+
+    "alexiPresseText" : "presse",
+
+
+    "list" : {
+        "About" : "About Us",
+        "Photos" : "Photos",
+        "Team" : "Team"
+    },
+    
+    "Project" : "Project",
+
+    "ProjectText" : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor",
+
+    "iconsText" : {
+        "Location" : "Location Street",
+        "Social" : "Social Media"
+    },
+
+    "Alexi" : "Alexi Matchavariani",
+
+    "Biograpgy" : {
+        "biography" : "Biography",
+        "Aleksi" : "Aleksi Machavariani was born in Gori, Georgia. He graduated from the Tbilisi Conservatory in 1936 and remained there for postgraduate studies. He studied composition under Pyotr Ryazanov. Later he joined the faculty, becoming a professor in 1963. He began his artistic career in 1935.",
+        "Machavariani" : "Machavariani produced a number of critically acclaimed plays and ballets, including the ballet 'Othello ' (1957), the operas 'Mat i Sin '  (1945), 'Den moei Rodini' (1954), the symphony 'Piat monologov' (1971; it earned the Shota Rustaveli Prize). He also wrote the music to many theatrical productions, including 'Baratashvili' and 'Legenda o liubvi'. His output includes among other works also a violin concerto (1950), seven symphonies (1947–1992) and six string quartets (the last in 1993).[1]" ,
+        "artistic" : "He was the artistic director of the Georgian State Symphony Orchestra from 1956 till 1958 and directed the Composers' Union of Georgia from 1962 till 1968.[2]" ,
+        "Vakhtang" : "His son, Vakhtang Machavariani, is likewise a composer, who also conducts his father's works."
+    },
+
+    "Photos" : "photos",
+
+    "AlexiPresse" : {
+        "first" : " Brilliant music, brilliant performance… it’s a great success… again I want to underline the music of Alexi Matchavariani, which is talented and perfectly orchestrated.",
+        "fisrtB" : "D. Shostakovich. “Zaria Vostoka”, 25-03-1958.",
+        "second" : "…”Othello” and Alexi Matchavariani’s score is a stunning dramatic pulse – sinuous, barbed, bombastic and tender in turn. …it’s Shakespeare with electricity.",
+        "secondB" : "By Howard Thomson. The New York Times. Monday. May 4, 1964.",
+        "third" : "A. Matchavariani’s violin concerto is beautiful – it contains all the passion, the poetry and deep spirituality… Added to the lyrical quality of the music there is a robust intellectual approach – all in all, a most memorable piece which any violinist would have great pleasure in interpreting.",
+        "thirdB" : "Sir Yehudi Menuhin. London. 20-06-1985.",
+        "forth" : "Alexei Davidovich Matchavariani in a author of the excellent violin concerto. David Oistrach. 27-02-1952. On the day of the performance of",
+        "forthB" : "A. Matchavariani violin concerto by D. Oistrach."
+    },
+
+    "Aleximanuscript" : {
+        "manuscripts" : "manuscripts",
+        "Name" : "Name #1",
+        "Study" : "The Study Of The Writing In Surviving Manuscripts",
+        "SecondName" : "Name #1",
+        "SecondStudy" : "The Study Of The Writing In Surviving Manuscripts"
+    },
+
+    "AlexiAudio" : {
+        "audio" : "audio & video samples",
+        "Concert" : "Concert Recording.",
+        "Wagner" : "R. Wagner: Overture to opera “Rienzi”.  M. Ravel: “Daphnis & Chloe”, 2-d suite.  I. Stravinsky: “Le Sacre du Printemps”.  Vakhtang Matchavariani and the “Moscow Festival Orchestra” at the big concert hall of the Tchaikovsky state conservatory in Moscow .Vakhtang Matchavariani Principal Conductor & General Music Director of M.F.O.",
+        "Jazz" : "Jazz Recording (at home)",
+        "funny" : "My funny Valentine  Some day my prince will come  Who can I turn to ",
+        "Melodia" : "Melodia Label",
+        "Matchavariani" : "Alexi Matchavariani. Ballet “The Knight in the tiger skin”. Grand Suite. Prologue, Kadji, Fiest, Freske, Quartet, Kadji, Magic, War, Finale – epilogue."
+    },
+
+    "Vakhtang" : "Vakhtang Matchavariani",
+
+    "VakhtanTexts" : {
+        "biography" : "biography",
+        "ssociated" : "ssociated with great orchestras, such as Philharmonia Orchestra London, Royal Philharmonic Orchestra London, Orchestre National de France, Belgian National Orchestra, Staatsorchester Stuttgart, St. Petersburg Philharmonic Orchestra, Moscow Philharmonic Orchestra, Large Radio & TV Symphony Orchestra of USSR, Symphony Orchestra of Ministry of Culture of USSR, Mariinsky Theatre Symphony Orchestra St. Petersburg, Presidential Symphony Orchestra Ankara and many other prominent orchestras.",
+        "Matchavariani" : "Vakhtang Matchavariani received his musical education at Tbilisi Central Music School and the Tbilisi State Conservatory, initially as a pianist. Later he studied conducting at Tbilisi State Conservatory with Odisey Dimitiriadi, with Gennadi Rozhdestvensky at the Moscow State Conservatory, and finally with Karl Österreicher, at the Vienna Music Academy. During his studies in Viena, Maestro Lorin Maazel wrote about him: ...An audition was arranged where Mr. Matchavariani conducted the Vienna Philharmonic Orchestra. From what I could ascertain in the short time given Mr. Matchavariani, he has a conducting gift and he showed solid musicianship."
+
+    },
+
+    "VakhtangPresse" : {
+        "Scottish" : " …And the Scottish Opera Orchestra and Chorus, under the superbly incisive direction of Vakhtang Matchavariani, played and sang like heroes.--- Under Matchavariani, the Scottish Opera Orchestra produced some of the finest Orchestral Magic I ever heard from this band. The Glasgow Herald. U.K. MICHAEL TUMELTY.",
+        "works" : "…These works were magnificently conducted by Vakhtang Matchavariani and I have never heard the Scottish Opera Orchestra playing so brilliantly. The Spectator. U.K. R. MILNES.",
+        "justice" : "…Both were done more than justice under the devil-driven direction of Vakhtang Matchavariani… The performance was gripping from first to last; the central C major climax was an unashamed: COUP DE THEATHER in which music, light and movement combined to knock the audience senseless.Opera Magazine. R. MILNES.",
+        "truly" : "4)  V. Matchavariani…realized the truly lucid and evocative nature of the score. Daily Telegraph U.K. K. WALTON. 5)   …Conductor Vakhtang Matchavariani… drew atmospheric performances. Sunday Times. U.K. P. DRIVER."
+    },
+
+    "Vakhtangmanuscript" : {
+        "manuscripts" : "manuscripts",
+        "firstName" : "Name #1",
+        "Study" : "The Study Of The Writing In Surviving Manuscripts",
+        "SecondName" : "Name #1",
+        "secondStudy" : "The Study Of The Writing In Surviving Manuscripts"
+    },
+
+    "VakhtangAudio" : {
+        "audio" : "audio & video samples",
+        "Concert" : "Concert Recording.",
+        "Wagner" : "R. Wagner: Overture to opera “Rienzi”.  M. Ravel: “Daphnis & Chloe”, 2-d suite.  I. Stravinsky: “Le Sacre du Printemps”.  Vakhtang Matchavariani and the “Moscow Festival Orchestra” at the big concert hall of the Tchaikovsky state conservatory in Moscow .Vakhtang Matchavariani Principal Conductor & General Music Director of M.F.O.",
+        "Jazz" : "Jazz Recording (at home)",
+        "funny" : "My funny Valentine  Some day my prince will come  Who can I turn to ",
+        "Melodia" : "Melodia Label",
+        "Matchavariani" : "Alexi Matchavariani. Ballet “The Knight in the tiger skin”. Grand Suite. Prologue, Kadji, Fiest, Freske, Quartet, Kadji, Magic, War, Finale – epilogue."
+    },
+
+    "Foundation" : "foundation",
+
+    "FoundationTexts" : {
+        "about" : "about us",
+        "foundation" : "A foundation (also a charitable foundation) is a category of nonprofit organization or charitable trust that typically provides funding and support for other charitable organizations through grants, but may also engage directly in charitable activities. Foundations include public charitable foundations, such as community foundations, and private foundation, which are typically endowed by an individual or family. However, the term foundation may also be used by organizations that are not involved in public grantmaking. Legal entities existing under the status of foundations have a wide diversity of structures and purposes. Nevertheless, there are some common structural elements. " ,
+        "Chart" : "Chart of a foundation Legal requirements followed for establishment Purpose of the foundation Economic activity Supervision and management provisions Accountability and auditing provisions "
+    },
+
+    "team" : "team",
+
+
+    "TeamText" : {
+        "firstName" : "Name Lastname",
+        "FirstBiography" : "A Biography, Or Simply Bio, Is A Detailed Description Of A Person's Life. It Involves More Than Just The Basic Facts Like Education, Work, Relationships, And Death; It Portrays A Person's Experience Of These Life Events. Unlike A Profile Or Curriculum Vitae (Résumé), A Biography Presents A Subject's Life Story, Highlighting Various Aspects Of His Or Her Life, Including Intimate Details Of Experience, And May Include An Analysis Of The Subject's Personality",
+        "secondName" : "Name Lastname",
+        "SecondBiography" : "A Biography, Or Simply Bio, Is A Detailed Description Of A Person's Life. It Involves More Than Just The Basic Facts Like Education, Work, Relationships, And Death; It Portrays A Person's Experience Of These Life Events. Unlike A Profile Or Curriculum Vitae (Résumé), A Biography Presents A Subject's Life Story, Highlighting Various Aspects Of His Or Her Life, Including Intimate Details Of Experience, And May Include An Analysis Of The Subject's Personality",
+        "thirdName" : "Name Lastname",
+        "ThirdBiography" : "A Biography, Or Simply Bio, Is A Detailed Description Of A Person's Life. It Involves More Than Just The Basic Facts Like Education, Work, Relationships, And Death; It Portrays A Person's Experience Of These Life Events. Unlike A Profile Or Curriculum Vitae (Résumé), A Biography Presents A Subject's Life Story, Highlighting Various Aspects Of His Or Her Life, Including Intimate Details Of Experience, And May Include An Analysis Of The Subject's Personality"
+        
+    },
+
+
+    "project" : "project",
+
+    "ProjectTexts" : {
+        "Concourse" : "Concourse  Name " , 
+        "Contemporary" : "Contemporary business and science" ,
+        "Tasks" : "Tasks To Be Executed Over A Fixed Period " ,
+        "foundation" : "A foundation (also a charitable foundation) is a category of nonprofit organization or charitable trust that typically provides funding and support for other charitable organizations through grants, but may also engage directly in charitable activities. Foundations include public charitable foundations, such as community foundations, and private foundation, which are typically endowed by an individual or family. However, the term foundation may also be used by organizations that are not involved in public grantmaking.Legal entities existing under the status of foundations have a wide diversity of structures and purposes. Nevertheless, there are some common structural elements."
+    },
+
+    "ProjectTexts2" : {
+        "Concourse" : "Concourse  Name " , 
+        "Contemporary" : "Contemporary business and science" ,
+        "Tasks" : "Tasks To Be Executed Over A Fixed Period " ,
+        "foundation" : "A foundation (also a charitable foundation) is a category of nonprofit organization or charitable trust that typically provides funding and support for other charitable organizations through grants, but may also engage directly in charitable activities. Foundations include public charitable foundations, such as community foundations, and private foundation, which are typically endowed by an individual or family. However, the term foundation may also be used by organizations that are not involved in public grantmaking.Legal entities existing under the status of foundations have a wide diversity of structures and purposes. Nevertheless, there are some common structural elements."
+    },
+
+
+    "Applybtn" : "apply",
+
+
+    "contact " : "Contact",
+
+    "LoginForm" : {
+        "FirstName" : "your name",
+        "LastName" : "your lastname",
+        "Email" : "your email",
+        "Message" : "your message"
+    },
+
+    "Location" : "location street",
+
+    "SendBtn" : "send",
+
+    "Anytitle" : "any title",
+
+    "subtitle" : "subtitle",
+
+    "TitleText" : {
+        "first" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam finibus pellentesque velit in consectetur. Nulla sit amet aliquam est, a mollis odio. Praesent nec auctor sem. Morbi accumsan elementum sem in ornare. Cras non risus sem. Aliquam sit amet facilisis dui. Suspendisse vel mi ac elit pellentesque auctor at vel purus. Proin lacinia fermentum lectus, faucibus auctor dui sagittis eu. Aenean semper mollis augue eget mollis.",
+        "second" : "Integer in diam pharetra, efficitur velit rutrum, accumsan nulla. Sed volutpat tortor eget rhoncus bibendum. Nullam pretium libero a laoreet ullamcorper. Praesent nec nisi id nisi luctus semper eget non dolor. Sed ut lacinia nulla, sed vehicula erat. Praesent varius tincidunt sem. Integer sollicitudin quam id facilisis vehicula.",
+        "third" : "Morbi ultricies est laoreet, tempus ligula in, commodo dolor. Donec scelerisque at est ut finibus. Sed et suscipit erat. Sed fermentum orci sapien, quis suscipit velit malesuada in. Curabitur ut leo hendrerit, placerat tortor et, dignissim metus. Ut vitae orci a ante semper feugiat. Etiam vel elit eget metus suscipit lobortis non nec ipsum. Fusce rutrum arcu id aliquam vehicula. Nullam varius turpis nec condimentum venenatis. Donec malesuada nulla non accumsan mattis.",
+        "forth" : "Nulla sed justo odio. Ut dignissim finibus sem. Nunc eros enim, scelerisque sed laoreet vitae, ultrices in diam. Aenean non tellus libero. Etiam arcu justo, feugiat vel sem sit amet, malesuada ultricies magna. Vivamus nec neque vel sem sodales congue sit amet at justo. Cras finibus ultrices dui. Cras eget convallis justo. Vivamus tempus lectus eu est pulvinar varius.",
+        "fifth" : "Pellentesque non sapien sed nunc posuere faucibus non et lacus. Cras hendrerit accumsan mauris id eleifend. Cras placerat turpis eget tortor finibus, id vulputate purus facilisis. Integer eu faucibus ipsum. Etiam non dapibus turpis. Aenean vulputate, libero ac vehicula scelerisque, diam risus tristique odio, vel scelerisque sapien nisl sed turpis. Nunc sit amet erat sagittis, ultricies metus id, pulvinar nunc. Praesent sollicitudin justo metus, vel condimentum sapien tempus ut. Proin auctor ipsum ligula, sit amet molestie nulla hendrerit at. Maecenas scelerisque lorem vitae nibh porttitor, vel posuere urna ornare. Vestibulum eget ipsum sodales, posuere velit et, cursus ex. Pellentesque porta ante convallis augue rutrum tincidunt. Nulla sollicitudin mi at varius cursus. Cras turpis neque, vestibulum eget ante et, vehicula dignissim sapien. Cras enim risus, iaculis a augue vel, rutrum lobortis risus. Curabitur augue lorem, aliquet vitae turpis vel, gravida luctus risus."
+    }
+
+}
