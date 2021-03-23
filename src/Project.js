@@ -24,15 +24,15 @@ function Project() {
   return (
     <React.Fragment>
        <Container>
-         <h1 className="project">{t('project')}</h1>
+         <h1 className="h1 project">{t('project')}</h1>
         </Container>
 
 
          <div className="projectText">
            <Container>
-              <h2>{t('ProjectTexts.Concourse')}</h2>
+              <h2 className="h2">{t('ProjectTexts.Concourse')}</h2>
               <p>{t('ProjectTexts.Contemporary')}</p>
-              <h3>{t('ProjectTexts.Tasks')}</h3>
+              <h3 className="h3">{t('ProjectTexts.Tasks')}</h3>
               <br/>
               <p className='projectTextP'>{t('ProjectTexts.foundation')}
              </p>
@@ -45,9 +45,9 @@ function Project() {
 
          <div className="projectText2">
            <Container>
-              <h2>{t('ProjectTexts2.Concourse')}</h2>
+              <h2 className="h2">{t('ProjectTexts2.Concourse')}</h2>
               <p>{t('ProjectTexts2.Contemporary')}</p>
-              <h3>{t('ProjectTexts2.Tasks')}</h3>
+              <h3 className="h3">{t('ProjectTexts2.Tasks')}</h3>
               <br/>
               <p className='projectTextP'>{t('ProjectTexts2.foundation')}
              </p>

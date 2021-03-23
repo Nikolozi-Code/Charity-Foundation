@@ -16,41 +16,41 @@ function VakhtangManuscripts() {
 
     return (
         <React.Fragment>
-        <Container><h1 className="VakhtangText1">{t('Vakhtang')}</h1></Container>
+        <Container><h1 className="h1 VakhtangText1">{t('Vakhtang')}</h1></Container>
          
         <div className="Vakhtangmanuscript">
         <Container>
-          <h1 className="Vakhtangmanuscriptstext">{t('Aleximanuscript.manuscripts')}</h1>
+          <h1 className="h1 Vakhtangmanuscriptstext">{t('Aleximanuscript.manuscripts')}</h1>
 
           <div className="VakhtangmanuscriptsImgAndtext">
              <div className="VakhtangmanuscriptText1">
               <img src={manuscript1} alt=""/>
-              <h1>{t('Vakhtangmanuscript.firstName')}</h1>
+              <h1 className="h1">{t('Vakhtangmanuscript.firstName')}</h1>
               <p>{t('Vakhtangmanuscript.Study')}</p>
              </div>
              <div className="VakhtangmanuscriptText2">
               <img src={manuscript2} alt=""/>
-              <h1>{t('Vakhtangmanuscript.SecondName')}</h1>
+              <h1 className="h1">{t('Vakhtangmanuscript.SecondName')}</h1>
               <p>{t('Vakhtangmanuscript.secondStudy')}</p>
              </div>
              <div className="VakhtangmanuscriptText3">
               <img src={manuscript3} alt=""/>
-              <h1>{t('Vakhtangmanuscript.firstName')}</h1>
+              <h1 className="h1">{t('Vakhtangmanuscript.firstName')}</h1>
               <p>{t('Vakhtangmanuscript.Study')}</p>
              </div>
              <div className="VakhtangmanuscriptText4">
               <img src={manuscript4} alt=""/>
-              <h1>{t('Vakhtangmanuscript.SecondName')}</h1>
+              <h1 className="h1">{t('Vakhtangmanuscript.SecondName')}</h1>
               <p>{t('Vakhtangmanuscript.secondStudy')}</p>
              </div>
              <div className="VakhtangmanuscriptText5">
               <img src={manuscript1} alt=""/>
-              <h1>{t('Vakhtangmanuscript.firstName')}</h1>
+              <h1 className="h1">{t('Vakhtangmanuscript.firstName')}</h1>
               <p>{t('Vakhtangmanuscript.Study')}</p>
              </div>
              <div className="VakhtangmanuscriptText6">
               <img src={manuscript2} alt=""/>
-              <h1>{t('Vakhtangmanuscript.SecondName')}</h1>
+              <h1 className="h1">{t('Vakhtangmanuscript.SecondName')}</h1>
               <p>{t('Vakhtangmanuscript.secondStudy')}</p>
              </div>
              

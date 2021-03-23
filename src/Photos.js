@@ -29,13 +29,13 @@ function Photos() {
     return (
         <React.Fragment>
             <Container>
-            <h1 className="VakhtangText1">{t('Vakhtang')}</h1>
+            <h1 className="h1 VakhtangText1">{t('Vakhtang')}</h1>
 
             </Container>
 
             <div className="VakhtangPhotos">
          <Container>
-           <h1 className="vakhtangPhotosText1">{t('subtitle')}</h1>
+           <h1 className="h1 vakhtangPhotosText1">{t('subtitle')}</h1>
            <p className="vakhtangPhotosText2">{t('AlexiPhotosText')}</p>
 
           
@@ -63,7 +63,7 @@ function Photos() {
 
        <div className="VakhtangPhotos">
          <Container>
-           <h1 className="vakhtangPhotosText1">{t('Concertos')}</h1>
+           <h1 className="h1 vakhtangPhotosText1">{t('Concertos')}</h1>
            <p className="vakhtangPhotosText2">{t('AlexiPhotosText')}</p>
 
           

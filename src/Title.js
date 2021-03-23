@@ -15,13 +15,13 @@ function Title() {
     <React.Fragment>
        
        <Container>
-         <h1 className='AnyTitleText'>{t('Anytitle')}</h1>
+         <h1 className='h1 AnyTitleText'>{t('Anytitle')}</h1>
        </Container>
 
 
        <div className="Maintitle">
          <Container>
-           <h2 className='subtitleText'>{t('subtitle')}</h2>
+           <h2 className='h2 subtitleText'>{t('subtitle')}</h2>
 
            <p>{t('TitleText.first')}</p>
               <br/>

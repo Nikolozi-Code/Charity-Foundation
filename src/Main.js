@@ -41,7 +41,7 @@ function Main() {
         <img className="img" src={alexi} alt="" />
         <img className="img" src={vakhtang} alt="" />
         <div className="texts">
-          <h1 className="text">
+          <h1 className="text h1">
             {t('title')}
           </h1>
           <div className="line"></div>
@@ -52,7 +52,7 @@ function Main() {
         <Container>
           <div className="texts3">
           <div className="text1">
-            <h1>{t('Missions.Mission')}</h1>
+            <h1 className="h1">{t('Missions.Mission')}</h1>
             <br />
             <p className='boldedtext'>
              {t('Missions.Support')}
@@ -84,7 +84,7 @@ function Main() {
         <div className="texts5">
           <Container>
             <div className="texts6">
-              <h1 className="projectH1">{t('Project')}</h1>
+              <h1 className="h1 projectH1">{t('Project')}</h1>
               <br/>
               <p className='text3p'>{t('ProjectText')}</p>
 

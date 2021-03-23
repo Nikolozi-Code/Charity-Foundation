@@ -44,14 +44,14 @@ function Vakhtang() {
          <img className='MainvakhtangImg' src={vakhtang} alt=""/>
 
          <div className="MainvakhtangTitle">
-           <h1 className='vakhtangText'>{t('Vakhtang')}</h1>
+           <h1 className='h1 vakhtangText'>{t('Vakhtang')}</h1>
            <div className="MainvakhtangLine"></div>
          </div>
        </div>
 
        <div className="vakhtangBiography">
          <Container>
-           <h1 className="vakhtangtext">{t('VakhtanTexts.biography')}</h1>
+           <h1 className="h1 vakhtangtext">{t('VakhtanTexts.biography')}</h1>
 
            <div className="vakhtangtexts">
              <p>{t('VakhtanTexts.ssociated')}</p>
@@ -70,7 +70,7 @@ function Vakhtang() {
 
        <div className="VakhtangPhotos">
          <Container>
-           <h1 className="vakhtangPhotosText">{t('Photos')}</h1>
+           <h1 className="h1 vakhtangPhotosText">{t('Photos')}</h1>
 
           
            <div className="lotsOfphotos">
@@ -100,7 +100,7 @@ function Vakhtang() {
 
        <div className="vakhtangPresse">
          <Container>
-           <h1 className='vakhtangPressetext'>{t('alexiPresseText')}</h1>
+           <h1 className='h1 vakhtangPressetext'>{t('alexiPresseText')}</h1>
 
            <div className="vakhtangPressetexts">
              <p>1) {t('VakhtangPresse.Scottish')}</p>
@@ -121,17 +121,17 @@ function Vakhtang() {
 
        <div className="manuscript">
         <Container>
-          <h1 className="manuscriptstext">{t('Vakhtangmanuscript.manuscripts')}</h1>
+          <h1 className="h1 manuscriptstext">{t('Vakhtangmanuscript.manuscripts')}</h1>
 
           <div className="manuscriptsImgAndtext">
              <div className="manuscriptText1">
               <img src={manuscript1} alt=""/>
-              <h1>{t('Vakhtangmanuscript.firstName')}</h1>
+              <h1 className="h1">{t('Vakhtangmanuscript.firstName')}</h1>
               <p>{t('Vakhtangmanuscript.Study')}</p>
              </div>
              <div className="manuscriptText2">
               <img src={manuscript2} alt=""/>
-              <h1>{t('Vakhtangmanuscript.SecondName')}</h1>
+              <h1 className="h1">{t('Vakhtangmanuscript.SecondName')}</h1>
               <p>{t('Vakhtangmanuscript.secondStudy')}</p>
              </div>
           </div>
@@ -147,7 +147,7 @@ function Vakhtang() {
 
       <div className="audioandvideoSamples">
         <Container>
-           <h1 className='sampleText'>{t('VakhtangAudio.audio')}</h1>
+           <h1 className='h1 sampleText'>{t('VakhtangAudio.audio')}</h1>
            <br/>
 
           <div className="sampletexts">

@@ -40,14 +40,14 @@ function Foundation() {
          <img className='MainvakhtangImg' src={foundation} alt=""/>
 
          <div className="MainvakhtangTitle">
-           <h1 className='vakhtangText'>{t('Foundation')}</h1>
+           <h1 className='h1 vakhtangText'>{t('Foundation')}</h1>
            <div className="MainvakhtangLine"></div>
          </div>
        </div>
 
        <div className="Foundation">
          <Container>
-           <h1 className="FoundationText">{t('FoundationTexts.about')}</h1>
+           <h1 className="h1 FoundationText">{t('FoundationTexts.about')}</h1>
 
            <div className="foundationTexts">
              <p>{t('FoundationTexts.foundation')}
@@ -65,7 +65,7 @@ function Foundation() {
 
        <div className="VakhtangPhotos">
          <Container>
-           <h1 className="vakhtangPhotosText">{t('Photos')}</h1>
+           <h1 className="h1 vakhtangPhotosText">{t('Photos')}</h1>
 
           
            <div className="lotsOfphotos">
@@ -94,14 +94,14 @@ function Foundation() {
 
        <div className="FoundationTeam">
          <Container>
-           <h1 className='foundationteamtext'>{t('team')}</h1>
+           <h1 className='h1 foundationteamtext'>{t('team')}</h1>
 
            <div className="Foundatinteamtexts">
              <div className="firstFoundation">
                <img src={team1} alt=""/>
                
                <div className="foundationText">
-                 <h2>{t('TeamText.firstName')}</h2>
+                 <h2 className="h2">{t('TeamText.firstName')}</h2>
                  <p>{t('TeamText.FirstBiography')}</p>
                </div>
              </div>
@@ -110,7 +110,7 @@ function Foundation() {
                <img src={team2} alt=""/>
                
                <div className="foundationText">
-                 <h2>{t('TeamText.secondName')}</h2>
+                 <h2 className="h2">{t('TeamText.secondName')}</h2>
                  <p>{t('TeamText.SecondBiography')}</p>
                </div>
              </div>
@@ -119,7 +119,7 @@ function Foundation() {
                <img src={team3} alt=""/>
                
                <div className="foundationText">
-                 <h2>{t('TeamText.thirdName')}</h2>
+                 <h2 className="h2">{t('TeamText.thirdName')}</h2>
                  <p>{t('TeamText.ThirdBiography')}</p>
                </div>
              </div>

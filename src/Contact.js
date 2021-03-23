@@ -23,7 +23,7 @@ function Contact() {
 
   return (
     <React.Fragment>
-      <h1 className='ContactText'>{t('contact')}</h1>
+      <h1 className='h1 ContactText'>{t('contact')}</h1>
 
      
      <Container>

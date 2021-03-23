@@ -44,7 +44,7 @@ function Alexi() {
          <img className='MainAlexiImg' src={alexi} alt=""/>
 
          <div className="MainAlexiTitle">
-           <h1 className='alexiText'>{t('Alexi')}</h1>
+           <h1 className='h1 alexiText'>{t('Alexi')}</h1>
            <div className="MainalexiLine"></div>
          </div>
        </div>
@@ -52,7 +52,7 @@ function Alexi() {
        
        <div className="biography">
          <Container>
-         <h1 className="biographyText">{t('Biograpgy.biography')}</h1>
+         <h1 className="h1 biographyText">{t('Biograpgy.biography')}</h1>
          <br/>
          <p>{t('Biograpgy.Aleksi')}</p>
            <br/>
@@ -73,7 +73,7 @@ function Alexi() {
 
        <div className="photos">
          <Container>
-           <h1 className="TextPhoto">{t('Photos')}</h1>
+           <h1 className="h1 TextPhoto">{t('Photos')}</h1>
 
 
          <div className="lotsOfphotos">
@@ -106,7 +106,7 @@ function Alexi() {
       <div className="presse">
         <Container>
         <div className="TextPresse">
-         <h1 className='textPresse'>{t('alexiPresseText')}</h1>
+         <h1 className='h1 textPresse'>{t('alexiPresseText')}</h1>
         <br/>
 
         <p>{t('AlexiPresse.first')} <br/>
@@ -142,17 +142,17 @@ function Alexi() {
        
       <div className="manuscript">
         <Container>
-          <h1 className="manuscriptstext">{t('Aleximanuscript.manuscripts')}</h1>
+          <h1 className="h1 manuscriptstext">{t('Aleximanuscript.manuscripts')}</h1>
 
           <div className="manuscriptsImgAndtext">
              <div className="manuscriptText1">
               <img src={manuscript1} alt=""/>
-              <h1>{t('Aleximanuscript.Name')}</h1>
+              <h1 className="h1">{t('Aleximanuscript.Name')}</h1>
               <p>{t('Aleximanuscript.Study')}</p>
              </div>
              <div className="manuscriptText2">
               <img src={manuscript2} alt=""/>
-              <h1>{t('Aleximanuscript.Name')}</h1>
+              <h1 className="h1">{t('Aleximanuscript.Name')}</h1>
               <p>{t('Aleximanuscript.SecondStudy')}</p>
              </div>
           </div>
@@ -167,7 +167,7 @@ function Alexi() {
 
       <div className="audioandvideoSamples">
         <Container>
-           <h1 className='sampleText'>{t('AlexiAudio.audio')}</h1>
+           <h1 className='h1 sampleText'>{t('AlexiAudio.audio')}</h1>
            <br/>
 
           <div className="sampletexts">
