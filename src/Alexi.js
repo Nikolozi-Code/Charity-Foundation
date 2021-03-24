@@ -17,6 +17,8 @@ import { FaMapMarkerAlt, FaMobileAlt } from "react-icons/fa";
 import { GrFacebookOption, GrYoutube } from "react-icons/gr";
 import { Link } from "react-router-dom";
 import { useTranslation } from "react-i18next";
+import './App.css';
+
 
 
 

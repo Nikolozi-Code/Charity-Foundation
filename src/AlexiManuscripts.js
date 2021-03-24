@@ -8,6 +8,8 @@ import manuscript1 from './images/manuscript1.png';
 import manuscript2 from './images/manuscript2.png';
 import manuscript3 from './images/manuscript3.png';
 import manuscript4 from './images/manuscript4.png';
+import './App.css';
+
 
 function AlexiManuscripts() {
 

@@ -15,6 +15,7 @@ import {GrYoutube} from 'react-icons/gr';
 import { Container } from 'react-bootstrap';
 import Project from './Project';
 import { useTranslation } from 'react-i18next';
+import './App.css';
 
 const btn = {
     border: '2px solid black',

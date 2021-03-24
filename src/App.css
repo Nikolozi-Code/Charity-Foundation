@@ -91,6 +91,7 @@ body{
   color: black;
   text-decoration: none;
   font-size: 2em;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .Fund:hover{
@@ -107,6 +108,27 @@ body{
   display: none;
   padding: 30px;
   margin-left: -60px;
+}
+
+.alexi{
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.vakhtang{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.foundation{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.Projects{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.Contact{
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .alexi:hover .list{
@@ -316,6 +338,8 @@ ul li{
   width: 100%;
   background-color: black;
   margin-top: 4em;
+  padding: 1em;
+  height: auto;
 }
 
 .icon{

@@ -67,8 +67,8 @@ function Header() {
               </ul>
             </div>
             </Link>
-            <Link className='Linktext'   to='/Project'>{t("Header.projects")}</Link>
-            <Link className='Linktext'   to='/Contact'>{t("Header.contact")}</Link>
+            <Link className='Projects Linktext'   to='/Project'>{t("Header.projects")}</Link>
+            <Link className='Contact Linktext'   to='/Contact'>{t("Header.contact")}</Link>
           </Nav>
           <div className="LanguageButtons">
            <button onClick={() => HandleChange('en')}>ENG</button>

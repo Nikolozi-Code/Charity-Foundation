@@ -5,6 +5,8 @@ import { CgMail } from "react-icons/cg";
 import { FaMapMarkerAlt, FaMobileAlt } from "react-icons/fa";
 import { GrFacebookOption, GrYoutube } from "react-icons/gr";
 import Map from './Map';
+import './App.css';
+
 
 const Contactbtn = {
   width: '182px',

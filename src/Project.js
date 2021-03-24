@@ -4,6 +4,8 @@ import { useTranslation } from "react-i18next";
 import { CgMail } from "react-icons/cg";
 import { FaMapMarkerAlt, FaMobileAlt } from "react-icons/fa";
 import { GrFacebookOption, GrYoutube } from "react-icons/gr";
+import './App.css';
+
 
 
 const Projectbtn = {

@@ -5,6 +5,8 @@ import { CgMail } from 'react-icons/cg';
 import { FaMapMarkerAlt, FaMobileAlt } from 'react-icons/fa';
 import { GrFacebookOption, GrYoutube } from 'react-icons/gr';
 import alexiImg from './images/alexiImg.png';
+import './App.css';
+
 
 
 function AlexiPhotos() {
